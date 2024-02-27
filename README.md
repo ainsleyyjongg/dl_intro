@@ -6,7 +6,7 @@ I have only implemented the website design
 Please leave a ⭐ as motivation if you liked the implementation 😄
 
 ## Demo Output
-![Demo](/public/assets/demo.gif)
+![Demo](/assets/demo.png)
 <br />
 <br />
 
