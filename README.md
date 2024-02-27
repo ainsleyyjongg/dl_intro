@@ -11,13 +11,13 @@ Please leave a ⭐ as motivation if you liked the implementation 😄
 <br />
 
 ## Built with
-* [HTML] (https://html.com/)
-* [CSS] (https://www.w3.org/Style/CSS/Overview.en.html)
+* [HTML](https://html.com/)
+* [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
 
 ## Running the project
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [HTML](https://html.com/) & [CSS](https://www.w3.org/Style/CSS/Overview.en.html) project.
 
-In the project directory, you can right click the [HTML] (https://html.com/) file and run:
+In the project directory, you can right click the "netflix.html" file and run:
 
 #### `open with live server`
 
